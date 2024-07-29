@@ -1,7 +1,7 @@
 function indexOfIgnoreCase(s1, s2) {
   // write your code here
 	  if(s1.indexOf(s2)){
-	 return(s1.indexOf(s2))
+	  return(s1.firstIndexOf(s2))
   
 }
 	 else{
